@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Oğuzhan</h1>
-<h3 align="center">Mobile Application Developer from Turkey</h3>
+<h3 align="center">Mobile Application Developer from the Netherlands </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oguzhansevim&label=Profile%20views&color=0e75b6&style=flat" alt="oguzhansevim" /> </p>
 
